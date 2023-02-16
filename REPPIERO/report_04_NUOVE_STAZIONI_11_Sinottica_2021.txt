@@ -1,8 +1,0 @@
-PROCESS START
-examine file 1/2...
-examine file 2/2...
-Examined 7028 records
-Found 2 distinct stations
-Number of NEW stations: 0
-Exported new stations on CSV 'NEWSTATIONS/11_Sinottica_2021/new_stations.csv'
-PROCESS ENDED

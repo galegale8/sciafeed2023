@@ -1,4 +1,0 @@
-16-02-2023 08:23:24 INFO: starting process of compute daily indicators
-16-02-2023 08:23:24 INFO: reading data from 'NORMALIZED/33_AssamMarche19Formato_2021/loc01_00001_202101010100_202201010100.dat.csv'
-16-02-2023 08:23:27 INFO: computing daily indicators...
-16-02-2023 08:23:29 INFO: end process of compute daily indicators
