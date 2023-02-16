@@ -1156,3 +1156,6 @@ def compute_and_store(conn, data, writers, table_map, logger=None):
                 writer.writerow(indicators_row)
                 computed_indicators[key_tuple] = day_indicators
     return computed_indicators
+
+	
+	

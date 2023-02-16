@@ -1,0 +1,7 @@
+PROCESS START
+examine file 1/1...
+Examined 96327 records
+Found 1 distinct stations
+Number of NEW stations: 0
+Exported new stations on CSV 'NEWSTATIONS/33_AssamMarche19Formato_2021/new_stations.csv'
+PROCESS ENDED

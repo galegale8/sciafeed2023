@@ -1,0 +1,22 @@
+15-02-2023 19:07:41 INFO: starting process of inserting data
+15-02-2023 19:07:41 INFO: - reading data from file ds__bagna.csv
+15-02-2023 19:07:41 INFO: - start insert/upsert of 0 records from file ds__bagna.csv
+15-02-2023 19:07:41 WARNING: no items to upsert
+15-02-2023 19:07:41 INFO: - reading data from file ds__elio.csv
+15-02-2023 19:07:41 INFO: - start insert/upsert of 0 records from file ds__elio.csv
+15-02-2023 19:07:41 WARNING: no items to upsert
+15-02-2023 19:07:41 INFO: - reading data from file ds__preci.csv
+15-02-2023 19:07:41 INFO: - start insert/upsert of 601 records from file ds__preci.csv
+15-02-2023 19:07:41 INFO: - reading data from file ds__press.csv
+15-02-2023 19:07:41 INFO: - start insert/upsert of 0 records from file ds__press.csv
+15-02-2023 19:07:41 WARNING: no items to upsert
+15-02-2023 19:07:41 INFO: - reading data from file ds__radglob.csv
+15-02-2023 19:07:41 INFO: - start insert/upsert of 0 records from file ds__radglob.csv
+15-02-2023 19:07:41 WARNING: no items to upsert
+15-02-2023 19:07:41 INFO: - reading data from file ds__t200.csv
+15-02-2023 19:07:42 INFO: - start insert/upsert of 723 records from file ds__t200.csv
+15-02-2023 19:07:42 INFO: - reading data from file ds__urel.csv
+15-02-2023 19:07:43 INFO: - start insert/upsert of 723 records from file ds__urel.csv
+15-02-2023 19:07:43 INFO: - reading data from file ds__vnt10.csv
+15-02-2023 19:07:43 INFO: - start insert/upsert of 723 records from file ds__vnt10.csv
+15-02-2023 19:07:44 INFO: end process of inserting data

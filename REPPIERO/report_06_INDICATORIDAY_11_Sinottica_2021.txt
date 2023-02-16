@@ -1,0 +1,5 @@
+15-02-2023 19:07:38 INFO: starting process of compute daily indicators
+15-02-2023 19:07:38 INFO: reading data from 'NORMALIZED/11_Sinottica_2021/160080-99999-2021.op.csv'
+15-02-2023 19:07:38 INFO: reading data from 'NORMALIZED/11_Sinottica_2021/160083-99999-2021.op.csv'
+15-02-2023 19:07:39 INFO: computing daily indicators...
+15-02-2023 19:07:39 INFO: end process of compute daily indicators

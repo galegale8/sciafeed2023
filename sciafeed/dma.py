@@ -1747,3 +1747,5 @@ def process_dma_temperatura(conn, startschema, targetschema, policy, stations_id
         if sql:
             conn.execute(sql)
     logger.info('end process DMA temperatura')
+	
+	
